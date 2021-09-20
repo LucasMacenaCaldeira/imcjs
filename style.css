@@ -10,6 +10,7 @@
 	align-items: center;
 	justify-content: center;
 	justify-items: center;
+	opacity: 0.5;
 }
 
 .formulario{
@@ -20,7 +21,7 @@
 	border-radius: 25px;
 	border-style: solid;
 	align-self: center;
-	opacity: 0.3;
+
 	justify-self: center;
 }
 
