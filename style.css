@@ -20,8 +20,8 @@
 	border-radius: 25px;
 	border-style: solid;
 	align-self: center;
+	opacity: 0.3;
 	justify-self: center;
-	background-color: #808080;
 }
 
 .centering{
